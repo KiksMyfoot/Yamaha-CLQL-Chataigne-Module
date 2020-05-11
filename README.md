@@ -1,4 +1,4 @@
-Yamaha-CLQL-Chataigne-Module
+Yamaha-CLQL-Chataigne-Module Alpha
 ====================
 
 [Chataigne] module for control of Yamaha CL/QL-series consoles.
